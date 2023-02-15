@@ -28,4 +28,4 @@ arr.forEach((index) => {
      }
 });
 
-console.log("Method 2:",frequency);
+console.log("Method 2:",frequency2);
